@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l4/b+BtQ645XoE1+HbvejB0RDbQllpIrOn10H47Wcu4=",
+  "Source": "api-redis",
+  "BasePath": "_content/api-redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
